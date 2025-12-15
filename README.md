@@ -68,7 +68,7 @@ Counter/
    
 2. **Navigate into the folder**
    ```bash
-   cd counter
+   cd Counter
 
 3. **Install dependencies**
    ```bash
@@ -88,7 +88,7 @@ Counter/
 
 | Command         | Description            |
 |-----------------|------------------------|
-| `cd counter`      | Navigate to the folder (directory) |
+| `cd Counter`      | Navigate to the folder (directory) |
 | `npm install`   | Install dependencies   |
 | `npm run dev`   | Start dev server       |
 
