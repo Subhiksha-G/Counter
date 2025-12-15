@@ -64,7 +64,7 @@ Counter/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Subhiksha-G/counter.git
+   git clone https://github.com/Subhiksha-G/Counter.git
    
 2. **Navigate into the folder**
    ```bash
