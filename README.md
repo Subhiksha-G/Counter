@@ -1,16 +1,120 @@
-# React + Vite
+# Counter Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React + Vite web app that counts or displays a counter-style UI — built with modern tooling and ready for customization.
 
-Currently, two official plugins are available:
+🔗 **Live Demo** - [Counter Web App](https://counter-website-ten.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 About The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This repository contains a **React application scaffolded with Vite**. It serves as a minimal starter project for building interactive frontend applications — perfect for practice or enhancement.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧰 Tech Stack
+
+- **React** — UI library for building components  
+- **Vite** — Super fast frontend tooling  
+- **JavaScript** — Core scripting language  
+- **HTML & CSS** — Basic structure and styling
+- **Deployment** — Vercel
+
+---
+
+## ✨ Features
+
+✔ Fast development with Vite  
+✔ Interactive counter / UI  
+✔ Modern React structure  
+✔ Lightweight and easy to customize
+
+---
+
+## 📁 Project Structure
+
+Counter/
+
+├── public/
+
+├── src/
+
+│ ├── App.jsx
+
+│ ├── App.css
+
+│ └── main.jsx
+
+├── .gitignore
+
+├── index.html
+
+├── package.json
+
+├── package-lock.json
+
+├── vite.config.js
+
+└── README.md
+
+
+---
+
+## 🛠 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Subhiksha-G/counter.git
+   
+2. **Navigate into the folder**
+   ```bash
+   cd counter
+
+3. **Install dependencies**
+   ```bash
+   npm install
+
+4. **Start development server**
+   ```bash
+   npm run dev
+
+5. **Open in browser**
+
+   Visit the below default Vite port
+   ```bash
+   http://localhost:5173/
+
+### 📌 Useful Commands
+
+| Command         | Description            |
+|-----------------|------------------------|
+| `cd counter`      | Navigate to the folder (directory) |
+| `npm install`   | Install dependencies   |
+| `npm run dev`   | Start dev server       |
+
+
+### 🙌 Learnings & Skills
+
+  By working with this project, you’ll get hands-on experience with:
+
+- Setting up a modern React app using Vite
+
+- Managing components and app state
+
+### 🚀 Future Enhancements
+
+- Add state management (e.g., Redux)
+
+- Add more UI features to the counter
+
+- Connect to backend API
+
+- Add tests with Jest or React Testing Library
+
+### 📬 Connect With Me
+
+**Subhiksha G**
+
+Front End Developer
+
+[Email](subhikshavkl@gmail.com) | [LinkedIn](https://linkedin.com/in/subhiksha-g)
