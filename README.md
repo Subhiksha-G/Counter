@@ -84,7 +84,7 @@ Counter/
    ```bash
    http://localhost:5173/
 
-### 📌 Useful Commands
+## 📌 Useful Commands
 
 | Command         | Description            |
 |-----------------|------------------------|
@@ -93,7 +93,7 @@ Counter/
 | `npm run dev`   | Start dev server       |
 
 
-### 🙌 Learnings & Skills
+## 🙌 Learnings & Skills
 
   By working with this project, you’ll get hands-on experience with:
 
@@ -101,7 +101,7 @@ Counter/
 
 - Managing components and app state
 
-### 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - Add state management (e.g., Redux)
 
@@ -111,7 +111,7 @@ Counter/
 
 - Add tests with Jest or React Testing Library
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 **Subhiksha G**
 
